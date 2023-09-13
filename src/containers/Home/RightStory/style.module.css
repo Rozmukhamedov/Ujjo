@@ -1,0 +1,21 @@
+.right {
+    width: 50%;
+    border-bottom: 1px solid #000000;
+}
+
+.right h2 {
+    color: #000;
+    text-align: center;
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 64.512px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    margin: 50px 44px;
+}
+
+.right img {
+    width: 100%;
+    margin-bottom: -4px;
+}

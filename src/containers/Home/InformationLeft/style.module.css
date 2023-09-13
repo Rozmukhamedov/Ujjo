@@ -1,0 +1,20 @@
+.left {
+    width: 50%;
+    border-right: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+}
+
+.left .top {
+    border-bottom: 1px solid #000000;
+}
+
+.left .top img {
+    width: 620px;
+    height: 389px;
+    margin: 15px;
+}
+
+.left .bottom {
+    border-top: 1px solid #000000;
+    padding: 19px;
+}

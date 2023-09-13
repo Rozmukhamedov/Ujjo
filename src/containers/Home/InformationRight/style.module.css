@@ -1,0 +1,26 @@
+.right {
+    width: 50%;
+    border-bottom: 1px solid #000000;
+}
+
+.right .text {
+    border-bottom: 1px solid #000000;
+}
+
+.right .text h3 {
+    color: #000;
+    text-align: center;
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 64.512px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    padding: 24px 0 15px 0;
+}
+
+.right img {
+    width: 656px;
+    height: 705px;
+    padding: 21px;
+}

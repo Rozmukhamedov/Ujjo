@@ -1,0 +1,13 @@
+.slider {
+    padding: 20px 0;
+}
+
+.slider .card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.slider .card img {
+    margin-right: 15px;
+}
